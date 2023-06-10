@@ -1,0 +1,4 @@
+requests
+colorama
+instaloader==4.9.6
+pygame
