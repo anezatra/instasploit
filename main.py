@@ -910,7 +910,7 @@ def shell():
     
     elif command == "clear":
             play_command()
-            os.system("cls")  
+            os.system("clear")  
 
 def os_shell():
     while True:
