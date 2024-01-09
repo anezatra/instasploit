@@ -52,7 +52,10 @@
 ## Required python version 📌
 ` python 3.x `
 ## Required instagram API module 🛠️
-**In order to use the program without any errors, the instaloader must be version 4.9.6. You can download it with the requirements file or download it with the pip command**
+**In order to use the program without any errors, the instaloader download the latest version. You can download it with the requirements file or download it with the pip command**
 ## About 🚀
 **My gmail adress: anezatra@gmail.com**
+##Last Update 📲
+** 9/01/2024 - All bugs fixed
+
 
