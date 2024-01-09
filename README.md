@@ -54,8 +54,8 @@
 ## Required instagram API module 🛠️
 **In order to use the program without any errors, the instaloader download the latest version. You can download it with the requirements file or download it with the pip command**
 ## About 🚀
-**My gmail adress: anezatra@gmail.com**
-##Last Update 📲
-** 9/01/2024 - All bugs fixed
+**My gmail adress: anezatra@gmail.com** <br/><br/>
+## Last Update 📲
+**9/01/2024 - All bugs fixed**
 
 
