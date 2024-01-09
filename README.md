@@ -42,7 +42,8 @@
 - tfwilikes       Get posts that target followers like               
 - tfwicomment     Get comments the target makes on their followers   
 - ltfollowed      Get who followed the target last                   
-- ltiked          Get who liked the target's post last             
+- ltiked          Get who liked the target's post last
+- leave           Leave this program and exit                      
 ```
 ## How to download 💡
 **You can download instasploiit directly by saying** <br/><br/>
