@@ -1102,6 +1102,7 @@ def main():
   print("                   INSTAGRAM DATA FRAMEWORK              ")
   print("                  ––·‹›·––·‹›·––·‹›·––·‹›·––·\n\n        ")
   print("WELCOME TO INSTASPLOIT V1.0")
+  print("---------------------------")
   print("\nIt is illegal to use this program without the consent of the")
   print("target, without being directed towards the targets. The use   ")
   print("of the program is entirely the user's responsibility.         ")					   
