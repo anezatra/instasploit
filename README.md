@@ -1,4 +1,4 @@
-# Instasploit Framework v1.0 📷
+# Instasploit Framework v2.0 📷
 ![banner image](https://github.com/anezatra/instasploit/blob/main/banner.jpg)
 ## What is a instasploit framework?
 **Instasploit performs deep analysis on any Instagram user. For example, you can list the users that any user follows, collect the email and phone numbers of the target user's followers or those who follow the target user, list the photos that the target user likes, or easily find out which users the target user comments on.**
