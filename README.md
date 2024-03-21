@@ -3,9 +3,8 @@
 ## What is a instasploit framework?
 **Instasploit performs deep analysis on any Instagram user. For example, you can list the users that any user follows, collect the email and phone numbers of the target user's followers or those who follow the target user, list the photos that the target user likes, or easily find out which users the target user comments on.**
 ## v2.0 Update 🏆
-**With the new update, we brought some new features. The new commands that come with the new update are as follows:** <br/><br/>
-**Scrapper: Pull all of Target's open source information from Instagram ✔️**
-
+**With the new update, we brought some new features. The new commands that come with the new update are as follows:** <br/>
+**Scrapper: Pull all of Target's open source information from Instagram ✔️**<br/>
 **Target: Open more shells for new targets ✔️**
 ## All commands 💻
 **The commands available in instasploit are as follows:**
