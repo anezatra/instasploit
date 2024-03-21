@@ -5,6 +5,7 @@
 ## v2.0 Update 🏆
 **With the new update, we brought some new features. The new commands that come with the new update are as follows:** <br/><br/>
 **Scrapper: Pull all of Target's open source information from Instagram ✔️**
+
 **Target: Open more shells for new targets ✔️**
 ## All commands 💻
 **The commands available in instasploit are as follows:**
