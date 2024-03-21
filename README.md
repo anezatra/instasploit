@@ -2,6 +2,10 @@
 ![banner image](https://github.com/anezatra/instasploit/blob/main/banner.jpg)
 ## What is a instasploit framework?
 **Instasploit performs deep analysis on any Instagram user. For example, you can list the users that any user follows, collect the email and phone numbers of the target user's followers or those who follow the target user, list the photos that the target user likes, or easily find out which users the target user comments on.**
+## v2.0 Update 🏆
+**With the new update, we brought some new features. The new commands that come with the new update are as follows:**
+**Scrapper: Pull all of Target's open source information from Instagram ✔️**
+**Target: Open more shells for new targets ✔️**
 ## All commands 💻
 **The commands available in instasploit are as follows:**
 ```
@@ -12,7 +16,8 @@
 - sessions        List all sessions                                  
 - reconnect       Reconnectin to target                              
 - diconnect       Disconnecting target                               
-- execute         execute shell commands                             
+- execute         execute shell commands
+- target          Connecting to another user                               
 - manual          View program all information                       
 - leave           Log out by typing leave or exit                    
 - clear           Clear all screen                                   
@@ -36,7 +41,8 @@
 - stories         Download user's stories                            
 - tagged          Get list of users tagged by target                 
 - wcommented      Get a list of user who commented target's photos   
-- wtagged         Get a list of user who tagged target               
+- wtagged         Get a list of user who tagged target
+- scrapper        Get all data of the target with Dorks            
 - tlikes          Get the likes of the entered person                
 - tcommnets       Get comments made by the entered person            
 - tfwilikes       Get posts that target followers like               
