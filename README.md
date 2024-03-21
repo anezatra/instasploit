@@ -57,6 +57,6 @@
 ## About 🚀
 **My gmail adress: anezatra@gmail.com** <br/>
 ## Last Update 📲
-**9/01/2024 - All bugs fixed**
+**21/03/2024 - New features**
 
 
