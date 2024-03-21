@@ -1,4 +1,7 @@
 requests
+cryptograhy
+pycryptodome
+pycryptodomex
 colorama
 instaloader
 pygame
