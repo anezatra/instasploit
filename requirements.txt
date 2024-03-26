@@ -1,6 +1,6 @@
 requests
 google
-cryptograhy
+cryptography
 pycryptodome
 pycryptodomex
 colorama
