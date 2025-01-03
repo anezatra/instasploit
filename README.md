@@ -70,6 +70,6 @@
 ## About 🚀
 **My gmail adress: anezatra@gmail.com** <br/>
 ## Last Update 📲
-**21/03/2024 - New features**
+**3/01/2025 - New features**
 
 
